@@ -26,7 +26,7 @@ function preload(){
 }
 function setup() {
   canvas = createCanvas(can_width, can_height);
-  bg_color = color( 0, 0, 128);
+  bg_color = color( 255, 255, 255);
   background( bg_color);
 }
 
