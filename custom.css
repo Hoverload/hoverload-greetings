@@ -125,17 +125,15 @@ canvas{
 }
 
 #how-to-use{
+  font-weight: 900;
   position:fixed; 
-  width: 95%; 
-  height: 75%; 
+  width:25em;
   background-color: #AB47BC;
   z-index: 30;
-  top: 50%;
+  top: 30%;
   left: 50%;
-  transform: translate(-50%, -50%);
-  border-radius: 10px;
-  border-left: 20px solid transparent;
-  border-right: 20px solid transparent;
+  margin-left:-12.5em;
+  padding:10px;
   
 }
 #create-greeting{
@@ -174,11 +172,10 @@ canvas{
 .how-to-use-content{
   font-family: 'Poiret One', cursive;
   color: #9C27B0;
-  font-size: 20px;
   font-weight: 900;
   background: #fff;
-  border-radius: 10px;
-  margin-bottom: 1em;
+  
+  margin-bottom: 10px;
   
 }
 
