@@ -188,27 +188,15 @@ canvas{
 
 #left-content{
   position: relative;
-  
+  margin-top:10px;
   padding: 10px;
 }
 
 #how-to-use-ul li{
   padding: 10px;
 }
-#right-content{
-  position: relative;
-  padding:10px;
-}
 
-#demo-img{
-  top:50%;
-  left:50%;
-  transform:translate(-50%,-50%);
-  position: absolute; 
-  width:90%;
-  height: 80%;
-  verticle-aling: middle;
-}
+
 
 #To{
  
