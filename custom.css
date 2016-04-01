@@ -163,11 +163,12 @@ canvas{
 }
 
 .close-button{
-  float: right; 
+  position:absolute;
+  right:10px;
   color: #999; 
   font-style: normal;
   cursor: pointer; 
-  font-weight: 100;
+  
 }
 .close-button:hover{
   color: black;
