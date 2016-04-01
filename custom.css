@@ -187,25 +187,17 @@ canvas{
 /*}*/
 
 #left-content{
-  width: 49.8%;
-  margin-right: 10px;
-
   position: relative;
-  top:50%;
-  transform:translate(0%,-50%);
-  padding: 1em;
+  
+  padding: 10px;
 }
 
 #how-to-use-ul li{
-  padding: 1em;
+  padding: 10px;
 }
 #right-content{
-  width: 49.8%;
-  float: right;
   position: relative;
-  top:50%;
-  transform:translate(0%,-50%);
-  padding: 1em;
+  padding:10px;
 }
 
 #demo-img{
