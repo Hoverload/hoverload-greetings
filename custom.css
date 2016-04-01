@@ -179,12 +179,12 @@ canvas{
   
 }
 
-.row{
-  display:flex;
-  position: relative;
-  margin: auto;
-  height: 80%;
-}
+/*.row{*/
+/*  display:flex;*/
+/*  position: relative;*/
+/*  margin: auto;*/
+/*  height: 80%;*/
+/*}*/
 
 #left-content{
   width: 49.8%;
