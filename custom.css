@@ -140,16 +140,13 @@ canvas{
 }
 #create-greeting{
   position:fixed; 
-  width: 95%; 
-  height: 75%; 
+  width:400px;
   background-color: #AB47BC;
   z-index: 30;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border-radius: 10px;
-  border-left: 20px solid transparent;
-  border-right: 20px solid transparent;
+  padding:10px;
 }
 .sub-header{
   
