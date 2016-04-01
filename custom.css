@@ -145,7 +145,7 @@ canvas{
   z-index: 30;
   top: 10%;
   left: 50%;
-  margin-left:12.5em;
+  margin-left:-12.5em;
   padding:10px;
 }
 .sub-header{
@@ -225,51 +225,39 @@ canvas{
 }
 
 #To{
- /*margin-top: 10px;*/
- top:22%;
- position: relative;
- width: 98%;
- border-radius: 10px;
- padding: 1%;
- font-size: 1.5em;
+ 
  font-weight: 900;
  font-family:"Poiret one", cursive;
+ display:block;
+ padding:10px;
+ margin-top:5px;
+ width:376px;
 }
-#Message{
- top: 24%;
- width: 98%;
- padding: 1%;
- font-size: 1.5em;
- font-weight: 900;
- border-radius: 10px;
- font-family: 'Poiret One', cursive;
- position: relative;
-}
-#From{
- top: 25%;
 
- width: 98%;
- position: relative;
- padding: 1%;
- font-size: 1.5em;
- font-weight: 900;
- border-radius: 10px;
- font-family: 'Poiret One', cursive;
+#Message{
+  font-weight: 900;
+  font-family:"Poiret one", cursive;
+  display:block;
+  padding:10px;
+  margin-top:5px;
+  width:378px;
+}
+
+#From{
+  font-weight: 900;
+  font-family:"Poiret one", cursive;
+  display:block;
+  padding:10px;
+  margin-top:5px;
+  width:376px;
 }
 
 #Create{
- top: 30%;
- position: relative;
- padding: 2%;
- /*width: 50%;*/
- font-size: 1.5em;
- line-height: 0.5;
+ margin-top:5px;
  background-color:#fff;
  font-weight: 900;
- border-radius: 10px;
  font-family: 'Poiret One', cursive;
  cursor: pointer;
-  
 }
 
 form{
