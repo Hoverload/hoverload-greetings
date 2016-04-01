@@ -139,11 +139,12 @@ canvas{
   
 }
 #create-greeting{
+  font-weight: 900;
   position:fixed; 
   width:25em;
   background-color: #AB47BC;
   z-index: 30;
-  top: 10%;
+  top: 30%;
   left: 50%;
   margin-left:-12.5em;
   padding:10px;
@@ -152,14 +153,10 @@ canvas{
   
   font-family: 'Poiret One', cursive;
   color: #9C27B0;
-  
-  
   padding: 10px;
   position: relative;
   background-color: #fff;
-  
- 
- 
+
 }
 
 .close-button{
