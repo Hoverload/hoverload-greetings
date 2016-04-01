@@ -140,26 +140,26 @@ canvas{
 }
 #create-greeting{
   position:fixed; 
-  width:400px;
+  width:25em;
   background-color: #AB47BC;
   z-index: 30;
-  top: 50%;
+  top: 10%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  margin-left:12.5em;
   padding:10px;
 }
 .sub-header{
   
   font-family: 'Poiret One', cursive;
   color: #9C27B0;
-  font-size: 2em;
-  font-weight: 900;
-  padding: 20px;
+  
+  
+  padding: 10px;
   position: relative;
   background-color: #fff;
-  margin-top: 15px;
-  border-radius: 10px;
-  z-index: 10;
+  
+ 
+ 
 }
 
 .close-button{
