@@ -28,6 +28,7 @@ function setup() {
   canvas = createCanvas(can_width, can_height);
   bg_color = 255;
   background( bg_color);
+  frameRate(200);
 }
 
 function mousePressed() {
